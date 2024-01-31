@@ -14,18 +14,18 @@ logging.basicConfig(
 logging.getLogger("apscheduler").setLevel(logging.ERROR)
 logging.getLogger('httpx').setLevel(logging.WARNING)
 logging.getLogger("pyrate_limiter").setLevel(logging.ERROR)
-LOGGER = logging.getLogger(__name__)
+LOGGER = logging.getLogger(@wafiulohsben)
 
-OWNER_ID = "1307669968"
-sudo_users = ["1307669968", "6890857225"]
-GROUP_ID = "-1001896546287"
-TOKEN = "6934588361:AAE0NPJ1Vd4eHmKfWOg7LX0vTR70FYsgImQ"
+OWNER_ID = "6590287973"
+sudo_users = ["6569866663", "2087105978"]
+GROUP_ID = "1002010986967"
+TOKEN = 6743042970:AAFnQtpQxpiRoZmy5iC7BsRY01c8yaJyhZ0
 mongo_url = "mongodb+srv://tiwarireeta004:peqxLEd36RAg7ors@cluster0.furypd3.mongodb.net/?retryWrites=true&w=majority"
 PHOTO_URL = ["https://telegra.ph/file/a17bbdf36197b0f0eb2c1.jpg", "https://telegra.ph/file/4754711cd88be32baf5b4.jpg", "https://telegra.ph/file/46b1151c6088fabc62250.jpg", "https://telegra.ph/file/4ed692d4e678216f87083.jpg"]
-SUPPORT_CHAT = "welovewesimp"
+SUPPORT_CHAT = "@slave_support_gc"
 UPDATE_CHAT = "Grabers_World"
-BOT_USERNAME = "Catcher_pridebot"
-CHARA_CHANNEL_ID = "-1002036957812"
+BOT_USERNAME = "@Slave_wafiu_botxbot"
+CHARA_CHANNEL_ID = "-1002010986967"
 api_id = "20457610"
 api_hash = "b7de0dfecd19375d3f84dbedaeb92537"
 
